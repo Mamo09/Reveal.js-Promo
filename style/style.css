@@ -1,13 +1,42 @@
-/* Home
+/* Home*/
 
 
-/* Produk
 
 
-/* Fitur
+/* Produk*/
 
 
-/* Spesifikasi
 
 
-/* Video
+/* Fitur*/
+
+.kamera {
+    position:absolute;
+    top:77px;
+    left:565px;
+    z-index:10;
+    
+}
+
+.layar1 {
+    position:absolute;
+    top:200px;
+    left:530px;
+    z-index:10;
+    
+}
+
+.layar2 {
+    position:absolute;
+    top:360px;
+    left:500px;
+    z-index:10;
+}
+
+
+/* Spesifikasi*/
+
+
+
+
+/* Video*/

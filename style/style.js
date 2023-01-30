@@ -31,7 +31,7 @@ $(document).ready(function(){
         placement : 'top',
         trigger : 'hover',
         html : true,
-        content : '<div class="media"><img src="" class="mr-3" alt="Sample Image"><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
+        content : '<div class="media"><img src="./image/" class="mr-3" alt="Sample Image"><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
     });
 });
 
