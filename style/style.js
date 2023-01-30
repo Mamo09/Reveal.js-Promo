@@ -13,7 +13,7 @@ $(document).ready(function(){
         placement : 'top',
         trigger : 'hover',
         html : true,
-        content : '<div class="media"><img src="./image/kamera" class="mr-3" alt="> <div class="media-body"><p></p></div></div>'
+        content : '<div class="media"><img src="./image/kamera.png" class="mr-3" alt="> <div class="media-body"><p></p></div></div>'
     });
 });
 
@@ -22,7 +22,7 @@ $(document).ready(function(){
         placement : 'top',
         trigger : 'hover',
         html : true,
-        content : '<div class="media"><img src="" class="mr-3" alt="Sample Image"><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
+        content : '<div class="media"><img src="./image/layar1.png" class="mr-3" alt=""><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
     });
 });
 
@@ -31,28 +31,36 @@ $(document).ready(function(){
         placement : 'top',
         trigger : 'hover',
         html : true,
-        content : '<div class="media"><img src="./image/" class="mr-3" alt="Sample Image"><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
+        content : '<div class="media"><img src="./image/layar2.png" class="mr-3" alt=""><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
     });
 });
 
 $(document).ready(function(){
-    $('[data-toggle="layar2"]').popover({
+    $('[data-toggle="touchpad"]').popover({
         placement : 'top',
         trigger : 'hover',
         html : true,
-        content : '<div class="media"><img src="./image/" class="mr-3" alt="Sample Image"><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
+        content : '<div class="media"><img src="./image/touchpad.png" class="mr-3" alt=""><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
     });
 });
 
 $(document).ready(function(){
-    $('[data-toggle="layar2"]').popover({
+    $('[data-toggle="keyboard"]').popover({
         placement : 'top',
         trigger : 'hover',
         html : true,
-        content : '<div class="media"><img src="./image/" class="mr-3" alt="Sample Image"><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
+        content : '<div class="media"><img src="./image/keyboard" class="mr-3" alt=""><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
     });
 });
 
+$(document).ready(function(){
+    $('[data-toggle="kirilaptop"]').popover({
+        placement : 'top',
+        trigger : 'hover',
+        html : true,
+        content : '<div class="media"><img src="./image/kirilaptop.png" class="mr-3" alt=""><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
+    });
+});
 // Spesifikasi
 
 
