@@ -49,7 +49,7 @@ $(document).ready(function(){
         placement : 'top',
         trigger : 'hover',
         html : true,
-        content : '<div class="media"><img src="./image/keyboard" class="mr-3" alt=""><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
+        content : '<div class="media"><img src="./image/keyboard" class="mr-3" alt=""><div class="media-body"><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
     });
 });
 
@@ -58,7 +58,7 @@ $(document).ready(function(){
         placement : 'top',
         trigger : 'hover',
         html : true,
-        content : '<div class="media"><img src="./image/kirilaptop.png" class="mr-3" alt=""><div class="media-body"><h5 class="media-heading">Jhon Carter</h5><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
+        content : '<div class="media"><img src="./image/kirilaptop.png" class="mr-3" alt="" width="200px" height="200px" ><div class="media-body"><p>Excellent Bootstrap popover! I really love it.</p></div></div>'
     });
 });
 // Spesifikasi
