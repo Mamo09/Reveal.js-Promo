@@ -32,6 +32,19 @@
     left:500px;
     z-index:10;
 }
+.touchpad {
+    position:absolute;
+    top:650px;
+    left:500px;
+    z-index:10;
+}
+
+.kirilaptop {
+    position:absolute;
+    top:300px;
+    left:500px;
+    z-index:10;
+}
 
 
 /* Spesifikasi*/
